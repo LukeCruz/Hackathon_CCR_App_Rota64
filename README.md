@@ -9,7 +9,7 @@ Miguel <br/>
 
 #### Objetivo Principal:
 * Conectar os caminhoneiros aos pontos de parada nas rotas em que ele se encontra no momento, <br/>
-* facilitando dessa forma a qualidade de vida desses profissionais.
+facilitando dessa forma a qualidade de vida desses profissionais.
 
 #### Tecnologias uTilizadas
   * para esse aplicativo optamos por desenvolver com a tecnologia react-native
