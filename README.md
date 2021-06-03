@@ -1,5 +1,10 @@
-# Rota-64
-### equipe:  Fernando, Bruno, Vinicius, Julia, Lucas, Miguel
+<h1># Rota 64 Hackathon CCR </h1>
+### equipe:  
+Fernando
+Bruno, Vinicius
+Julia
+Lucas Cruz
+Miguel
 
 #### Objetivo Principal:
 * Conectar os caminhoneioros aos pontos de parada nas rotas em que ele se encontra
